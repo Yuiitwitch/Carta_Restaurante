@@ -21,11 +21,6 @@ body{
     }
 }
 /* MAPA */
-.map{
-    background: url(/img/mapa.png);
-    width: 100%;
-    height: 500px;
-}
 .local{
     background: #f3f3f3;
     padding-bottom: 300px;
@@ -54,8 +49,4 @@ body{
     height: 48px ;
     border-right: 2px solid #3f3f3f;
     padding-left: 20px;
-}
-
-#mapa-local p {
-    margin:0;
 }
