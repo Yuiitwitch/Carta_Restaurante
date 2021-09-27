@@ -1,3 +1,12 @@
 body{
     margin:0 0 0 0;
 }
+li{
+    list-style: none;
+}
+.menup{
+    border: solid 1px blue;
+}
+.titulo{
+    color:rgb(71, 71, 250)
+}
